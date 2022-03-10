@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mendoxe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Lukas
+- 👀 I’m interested in Software engineering and all it's aspects
+- 🌱 I’m currently working with Flutter & Dart while also playing with Python
+- 💞️ I’m looking to collaborate on anything Flutter/Dart related
 - 📫 How to reach me ...
 
-<!---
-mendoxe/mendoxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
