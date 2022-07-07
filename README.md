@@ -1,10 +1,8 @@
 [![MasterHead](flutter_dart_bg.png)](z)
 
-- 👋 Hi, I’m Lukas
-- 👀 I’m interested in Software engineering and all it's aspects
-- 🌱 I’m currently working with Flutter & Dart while also playing with Python
-- 💞️ I’m looking to collaborate on anything Flutter/Dart related
-- 📫 How to reach me ...
+Hi, I’m Lukas, a knowledge-seeking software engineer with a current focus on multiplatform applications. During more than two years with Flutter, I have created applications for both mobile and desktop. I am very passionate about learning and mastering new technologies. Apart from Flutter and Python, I have mainly worked with Spring, Vanilla Java, and Web frontend (JS, Html, CSS). However, I also have some experience in Unity, SQL, NoSQL databases, Rust, and Go. Technologies and languages are not only a tool but also a toy for me.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Most of my work is in private repositories within my university servers and the company I work for, but I am trying to fill my Github when I find some time.
+
+I am open to connecting with new people, feel free to message me here or at 42lukas.simon@gmail.com
+
