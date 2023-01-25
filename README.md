@@ -6,3 +6,5 @@ Most of my work is in private repositories within my university servers and the 
 
 I am open to connecting with new people, feel free to message me here or at 42lukas.simon@gmail.com
 
+I have also accounts on most of the trending social platforms and I am active every day on LinkedIn.
+
